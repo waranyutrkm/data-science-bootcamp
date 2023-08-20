@@ -15,3 +15,5 @@ I learned a lot of stuff related to data science skills. This boot camp has 10 s
 - Essential Machine Learning for Data Analyst
 - Essential Python for Data Analyst
 - Dashboard
+
+  You can find me on Linkedin https://www.linkedin.com/in/waranyu-trkm/
